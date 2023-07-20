@@ -1,0 +1,12 @@
+<Mod>
+	<Name>Dualsense Buttons</Name>
+	<InstallationPath>DualsenseButtons</InstallationPath>
+	<ReleaseDate>19 July 2023</ReleaseDate>
+	<Author>SamsamTS</Author>
+	<Description>Use the Playstation Dualsense button icons instead of the Xbox button icons.</Description>
+	<Category>User Interface</Category>
+	<Version>1.0</Version>
+	<Website></Website>
+	<DownloadUrl></DownloadUrl>
+	<PreviewFile>PreviewImage.jpg</PreviewFile>
+</Mod>
